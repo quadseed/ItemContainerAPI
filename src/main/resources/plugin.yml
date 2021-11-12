@@ -1,0 +1,7 @@
+name: ItemContainerAPI
+version: '${project.version}'
+main: net.quadseed.minecraft.itemcontainerapi.ItemContainerAPI
+api-version: 1.17
+authors: [ quadseed ]
+description: ItemContainerAPI for Spigot/PaperMC Server
+load: STARTUP
